@@ -4,6 +4,28 @@
     ViewData["Title"] = "Home page";
 }
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function() {
+    $("#barang").keyup(function() {
+        var searchTerm = $(this).val();
+
+        if (searchTerm.length >= 3) {
+            $.ajax({
+                url: "/Home/GetItemSuggestions",
+                data: { term: searchTerm },
+                success: function(data) {
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    console.error("Error retrieving suggestions:", textStatus, errorThrown);
+                }
+            });
+        }
+    });
+});
+</script>
+
+
 <div class="container pt-4 px-4">
     <div class="row mt-4 mb-3">
         <div class="col-lg-4">

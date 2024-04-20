@@ -28,3 +28,7 @@ C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\refint\WebTest
 C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\WebTest.pdb
 C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\WebTest.genruntimeconfig.cache
 C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\ref\WebTest.dll
+C:\Users\Lenovo\Documents\Development\C#\WebTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\WebTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\WebTest.sourcelink.json
+C:\Users\Lenovo\Documents\Development\C#\WebTest\obj\Debug\net8.0\WebTest.csproj.Up2Date

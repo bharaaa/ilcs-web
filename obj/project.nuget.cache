@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "us1H+mg9r35/qLLoTLQB7pWBRB+bXnxrePgNyoruKrqw+0xeUgsb71VvOWihPZaaZDgCTKfJndjhzjn6sLBktA==",
+  "dgSpecHash": "qSUycwtlP1+Hw5d4dv/ofD4/ehHzxDTEmlQRopfyTs0wSCl8VM6noZtevLG1oTt/dm3TDaGJiPZCP34wZHe3Pg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Development\\C#\\WebTest\\WebTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
